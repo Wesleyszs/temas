@@ -31,7 +31,8 @@ Interesses: Especialização em Dados, estudando SQL, BI e tudo relacionado a da
 </div>
 📈 Gráfico de Linguagens:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Wesleyszs&layout=compact&theme=tokyonight&hide_border=true" alt="Gráfico de Uso de Linguagens" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wesleyszs&theme=tokyonight" alt="Gráfico de Repositórios por Linguagem" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wesleyszs&theme=tokyonight" alt="Gráfico de Commits por Linguagem" />
 </div>
 💼 Ferramentas:
 <div align="center">
