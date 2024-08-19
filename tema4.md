@@ -8,8 +8,8 @@
 📍 Localização: Fortaleza, CE
 📊 Foco de estudos: SQL, BI, e tudo relacionado a dados.
 💡 Curiosidade: Apaixonado por resolver problemas complexos e transformar dados em insights valiosos.
--------------------- Tecnologias e Ferramentas --------------------
 <div align="center">
+  <h3>-------------------- Tecnologias e Ferramentas --------------------</h3>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
