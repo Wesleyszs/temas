@@ -18,6 +18,13 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
 </div>
+
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wesleyszs&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+
 📈 Estatísticas do GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wesleyszs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
