@@ -8,6 +8,7 @@
 📍 Localização: Fortaleza, CE
 📊 Foco de estudos: SQL, BI, e tudo relacionado a dados.
 💡 Curiosidade: Apaixonado por resolver problemas complexos e transformar dados em insights valiosos.
+<!-- Início das tecnologias e ferramentas -->
 <div align="center">
   <h3>-------------------- Tecnologias e Ferramentas --------------------</h3>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
@@ -19,10 +20,11 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
 </div>
 
-<!-- Adicionando gráfico de commits diários -->
+<!-- Gráfico de commits -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Wesleyszs&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&hide_border=true" alt="Gráfico de Atividades Diárias"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Wesleyszs&theme=radical" alt="Gráfico de Commits Diários"/>
 </div>
+
 
 
 📈 Estatísticas do GitHub
