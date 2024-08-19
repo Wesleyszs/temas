@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2F4F4F&height=100&section=header&text=Wesley%20Souza&fontColor=FFFFFF&fontSize=50&fontAlign=50"/>
 
