@@ -19,11 +19,11 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
 </div>
 
-
-
+<!-- Adicionando gráfico de commits diários -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wesleyszs&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Wesleyszs&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&hide_border=true" alt="Gráfico de Atividades Diárias"/>
 </div>
+
 
 📈 Estatísticas do GitHub
 <div align="center">
